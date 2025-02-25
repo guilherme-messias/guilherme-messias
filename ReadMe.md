@@ -1,3 +1,5 @@
+![Gif Hello](/public/giphy.gif)
+
 # 💫 About Me:
 Full-Stack Developer | JavaScript, TypeScript, Node.js, Express, SQL & Prisma ORM <br><br>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (2023-2025)<br>🚀 Sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia
 
