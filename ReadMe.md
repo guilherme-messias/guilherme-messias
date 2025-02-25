@@ -10,7 +10,13 @@
 
 </div>
 
-Full-Stack Developer | JavaScript, TypeScript, Node.js, Express, SQL & Prisma ORM <br><br>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (2023-2025)<br>🚀 Sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia
+<div align='center'>
+
+Sou Guilherme um desenvolvedor Full-Stack do Brasil 
+
+</div>
+
+👨‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas<br>🚀 Apaixonado por solução de problemas e automação de rotinas diárias.<br>🔎 Pesquisando sobre arquitetura de software, desenvolvimento e qualidade.<br>👨‍💻Programando desde 2021
 
 # 💻 Tech Stack:
 
