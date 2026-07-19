@@ -1,98 +1,298 @@
 <div align="center">
-	<img src="giphy.gif" alt="Gif Hello" width="250"/>
+
+<img src="./assets/welcome.gif" alt="Apresentação de Guilherme Messias" width="400" height="300" />
+
+# Guilherme Messias
+
+### Do problema ao deploy.
+
+Desenvolvedor Full Stack construindo produtos digitais completos,  
+da interface e regras de negócio ao banco de dados, testes e publicação.
+
+<br />
+
+<a href="https://linkedin.com/in/guilhermemessiasdev">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:guilherme.messias.br@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Entrar_em_contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
-# 👋 Olá, eu sou Guilherme Messias!
+---
 
-Desenvolvedor Full-Stack com foco em **React/Next.js** no front e **NestJS/Node.js** no back — construindo aplicações completas desde a interface até a API e o banco de dados.
+## Sobre mim
 
-🎯 Trabalho com **TypeScript** em toda a stack, **PostgreSQL + Prisma** para modelagem de dados e **Docker** para manter ambientes consistentes. No front, prefiro **TailwindCSS** para interfaces rápidas e **React Query + Zod** para dados tipados e validados de ponta a ponta.
+Gosto de transformar problemas e ideias em aplicações que possam ser realmente utilizadas.
 
-🧪 Cuido da qualidade escrevendo testes com **Jest**, **Vitest** e **Cypress** — porque código que não é testado é código que vai quebrar em produção.
+Desenvolvo produtos web completos, participando de diferentes etapas do processo: definição da solução, construção da interface, implementação de APIs, modelagem do banco de dados, autenticação, testes e deploy.
 
-📚 Desde 2023 imerso em desenvolvimento, com interesse crescente em **arquitetura limpa**, **boas práticas de API REST** e escalabilidade de aplicações.
+Minha principal base é o ecossistema **TypeScript**, com experiência em **Angular, React, Next.js e Node.js**, além de PostgreSQL, Prisma e Docker.
 
-## 🚀 Tecnologias & Ferramentas
+Mais do que escolher uma tecnologia, procuro entender o problema, definir regras claras e construir uma solução organizada, sustentável e simples de evoluir.
 
-**Linguagens**
+---
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## Atualmente
 
-**Frameworks & Bibliotecas**
+- Desenvolvendo aplicações com **React, Angular e Node.js**
+- Aprofundando conhecimentos em arquitetura de aplicações full stack
+- Construindo projetos autorais voltados a problemas reais
+- Evoluindo práticas de testes, organização de código e integração com APIs
+- Buscando minha primeira oportunidade como desenvolvedor estagiário ou júnior
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+---
 
-**Estilização & UI**
+# Projetos em destaque
 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+## 🧠 DevSnap
 
-**Gerenciamento de estado & Formulários**
+<div align="center">
+  <img
+    src="./assets/devsnap.gif"
+    alt="Demonstração do DevSnap"
+    width="800"
+  />
+</div>
 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+### Transforme erros e soluções em conhecimento reutilizável.
 
-**Validação, Autenticação & ORM**
+Aplicação de revisão espaçada voltada para desenvolvedores. Permite registrar bugs, tentativas, soluções e aprendizados em episódios organizados por tecnologia.
 
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+O projeto possui modo de revisão focada, captura rápida de anotações, histórico de aprendizado e exportação dos registros em Markdown.
 
-**Banco de Dados**
+**Destaques técnicos**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- Arquitetura baseada em componentes standalone
+- Estado reativo com Signals
+- Formulários reativos
+- Serviços desacoplados
+- Lazy loading
+- Persistência local
+- Estrutura preparada para integração com API REST
 
-**DevOps & Containers**
+**Tecnologias**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+`Angular` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
 
-**Testes & Qualidade**
+<p>
+  <a href="LINK_DO_DEVSNAP">
+    <img
+      src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
+      alt="Acessar DevSnap"
+    />
+  </a>
 
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+  <a href="LINK_DO_REPOSITORIO_DEVSNAP">
+    <img
+      src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Repositório DevSnap"
+    />
+  </a>
+</p>
 
-**Hosting & SaaS**
+---
 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 🎵 Lacrei.io
 
-**Ferramentas & Outros**
+<div align="center">
+  <img
+    src="./assets/lacrei.gif"
+    alt="Demonstração do Lacrei.io"
+    width="800"
+  />
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+### Transforme uma música em uma carta para o seu futuro.
+
+Aplicação full stack que permite escolher uma música, escrever uma mensagem e definir uma data futura. No dia escolhido, o conteúdo é enviado por e-mail como uma cápsula do tempo musical.
+
+A aplicação integra serviços externos para pesquisa e reprodução de músicas, autenticação de usuários, persistência de dados e agendamento automático dos envios.
+
+**Destaques técnicos**
+
+- Autenticação OAuth
+- Modelagem relacional
+- Integração com APIs externas
+- E-mails transacionais
+- Tarefas agendadas
+- Validação e persistência de dados
+- Arquitetura organizada por funcionalidades
+
+**Tecnologias**
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Resend` `Vercel Cron Jobs`
+
+<p>
+  <a href="https://lacrei-io.vercel.app">
+    <img
+      src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
+      alt="Acessar Lacrei.io"
+    />
+  </a>
+
+  <a href="LINK_DO_REPOSITORIO_LACREI">
+    <img
+      src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Repositório Lacrei.io"
+    />
+  </a>
+</p>
+
+---
+
+## 🛒 PauseUp
+
+<div align="center">
+  <img
+    src="./assets/pauseup.gif"
+    alt="Demonstração do PauseUp"
+    width="800"
+  />
+</div>
+
+### Dê tempo para a decisão antes de realizar a compra.
+
+Aplicação full stack voltada ao consumo consciente. O usuário registra uma intenção de compra, define um período de reflexão e revisita a decisão com mais contexto antes de comprar ou desistir.
+
+O sistema possui autenticação, regras de negócio baseadas no estado da decisão, reagendamento de revisões e persistência individual dos dados.
+
+**Destaques técnicos**
+
+- CRUD completo
+- Autenticação de usuários
+- APIs REST
+- Regras de negócio por status
+- Modelagem relacional
+- Validação de dados
+- Testes automatizados
+- Deploy em produção
+
+**Tecnologias**
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth` `Tailwind CSS` `Vitest`
+
+<p>
+  <a href="https://pause-up.vercel.app">
+    <img
+      src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
+      alt="Acessar PauseUp"
+    />
+  </a>
+
+  <a href="LINK_DO_REPOSITORIO_PAUSEUP">
+    <img
+      src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Repositório PauseUp"
+    />
+  </a>
+</p>
+
+---
+
+# Outros projetos
+
+### 📚 Skillshelf
+
+Aplicação para organização de cursos, materiais e anotações, desenvolvida em PHP seguindo arquitetura MVC.
+
+`PHP` `SQLite` `HTML` `Tailwind CSS`
+
+[Ver repositório](LINK_DO_REPOSITORIO_SKILLSHELF)
+
+### ✍️ FormataX
+
+Ferramenta web para padronização e transformação de textos, com recursos de remoção de acentos, pontuação e capitalização.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+[Ver aplicação](LINK_DO_FORMATAX) · [Ver repositório](LINK_DO_REPOSITORIO_FORMATAX)
+
+---
+
+# Tecnologias
+
+## Desenvolvimento de interfaces
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=angular,ts,react,nextjs,html,css,tailwind,sass"
+    alt="Tecnologias de frontend"
+  />
+</p>
+
+## Backend e APIs
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,php"
+    alt="Tecnologias de backend"
+  />
+</p>
+
+## Dados e infraestrutura
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,docker,vercel"
+    alt="Banco de dados e infraestrutura"
+  />
+</p>
+
+## Testes e ferramentas
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,postman,figma"
+    alt="Testes e ferramentas"
+  />
+</p>
+
+---
+## Atividade no GitHub
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=guilherme-messias&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub de Guilherme Messias"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-messias&layout=compact&hide_border=true&langs_count=6"
+    alt="Linguagens mais utilizadas nos repositórios"
+  />
+</div>
+
+> As linguagens exibidas representam os repositórios públicos e não definem, isoladamente, meu nível de experiência ou área de atuação.
 
 ---
 
 <div align="center">
-	<h3>Entre em contato</h3>
-	<a href="mailto:messiasguilherme700@gmail.com?subject=Ol%C3%A1+Guilherme+Messias">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail" />
-	</a>
-	<a href="https://linkedin.com/in/guilhermemessiasdev">
-		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="https://stackoverflow.com/users/338693">
-		<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-	</a>
-</div>
 
+## Vamos construir algo?
+
+Estou aberto a oportunidades como **Desenvolvedor Full Stack, Front-end ou Back-end**, em nível de estágio ou júnior.
+
+<a href="mailto:guilherme.messias.br@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Enviar email"
+  />
+</a>
+
+<a href="https://linkedin.com/in/guilhermemessiasdev">
+  <img
+    src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Conectar no LinkedIn"
+  />
+</a>
+
+<br />
+<br />
+
+**Do problema ao deploy.**
+
+</div>
