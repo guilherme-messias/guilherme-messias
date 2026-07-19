@@ -90,13 +90,12 @@ A aplicação integra serviços externos para pesquisa e reprodução de música
 
 **Destaques técnicos**
 
+- Integração simultânea com MusicBrainz e Deezer
+- Agendamento automático via Cron Jobs
 - Autenticação OAuth
+- Emails transacionais
 - Modelagem relacional
-- Integração com APIs externas
-- E-mails transacionais
-- Tarefas agendadas
-- Validação e persistência de dados
-- Arquitetura organizada por funcionalidades
+- Persistência de dados
 
 **Tecnologias**
 
