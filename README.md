@@ -62,8 +62,8 @@ Mais do que escolher uma tecnologia, procuro entender o problema, definir regras
 
 ## Atualmente
 
-- Desenvolvendo aplicações com **React, Angular e Node.js**
-- Aprofundando conhecimentos em arquitetura de aplicações full stack
+- Desenvolvendo o DevSnap, uma plataforma de revisão espaçada para desenvolvedores
+- Estudando arquitetura de aplicações em .NET e Angular
 - Construindo projetos autorais voltados a problemas reais
 - Evoluindo práticas de testes, organização de código e integração com APIs
 - Buscando minha primeira oportunidade como desenvolvedor estagiário ou júnior
