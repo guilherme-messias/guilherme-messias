@@ -278,19 +278,22 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
 ---
 ## Atividade no GitHub
 
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=guilherme-messias&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub de Guilherme Messias"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-messias&layout=compact&hide_border=true&langs_count=6"
-    alt="Linguagens mais utilizadas nos repositórios"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-nu-ecru.vercel.app/api?username=guilherme-messias&show_icons=true&hide_border=true&rank_icon=github&hide_rank=true"
+        alt="Estatísticas do GitHub de Guilherme Messias"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=guilherme-messias&layout=compact&hide_border=true&langs_count=6"
+        alt="Linguagens mais utilizadas nos repositórios"
+      />
+    </td>
+  </tr>
+</table>
 
 > As linguagens exibidas representam os repositórios públicos e não definem, isoladamente, meu nível de experiência ou área de atuação.
 
