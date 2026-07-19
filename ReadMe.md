@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/welcome.gif" alt="Apresentação de Guilherme Messias" width="400" height="300" />
+<img src="./assets/welcome.gif" alt="Apresentação de Guilherme Messias" width="400" height="250" />
 
 # Guilherme Messias
 
