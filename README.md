@@ -110,7 +110,7 @@ A aplicação integra serviços externos para pesquisa e reprodução de música
     />
   </a>
 
-  <a href="LINK_DO_REPOSITORIO_LACREI">
+  <a href="https://github.com/guilherme-messias/lacrei.io">
     <img
       src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
       alt="Repositório Lacrei.io"
@@ -151,14 +151,14 @@ O projeto possui modo de revisão focada, captura rápida de anotações, histó
 `Angular` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
 
 <p>
-  <a href="LINK_DO_DEVSNAP">
+  <!-- <a href="LINK_DO_DEVSNAP">
     <img
       src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
       alt="Acessar DevSnap"
     />
-  </a>
+  </a> -->
 
-  <a href="LINK_DO_REPOSITORIO_DEVSNAP">
+  <a href="https://github.com/guilherme-messias/devsnap">
     <img
       src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
       alt="Repositório DevSnap"
@@ -207,7 +207,7 @@ O sistema possui autenticação, regras de negócio baseadas no estado da decis�
     />
   </a>
 
-  <a href="LINK_DO_REPOSITORIO_PAUSEUP">
+  <a href="https://github.com/guilherme-messias/pause-up">
     <img
       src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
       alt="Repositório PauseUp"
@@ -225,7 +225,7 @@ Aplicação para organização de cursos, materiais e anotações, desenvolvida 
 
 `PHP` `SQLite` `HTML` `Tailwind CSS`
 
-[Ver repositório](LINK_DO_REPOSITORIO_SKILLSHELF)
+[Ver repositório](https://github.com/guilherme-messias/skillshelfF)
 
 ### ✍️ FormataX
 
@@ -233,7 +233,7 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-[Ver aplicação](LINK_DO_FORMATAX) · [Ver repositório](LINK_DO_REPOSITORIO_FORMATAX)
+[Ver aplicação](https://guilherme-messias.github.io/formataX/) · [Ver repositório](https://github.com/guilherme-messias/formataX)
 
 ---
 
