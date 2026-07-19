@@ -25,16 +25,16 @@ da interface e regras de negócio ao banco de dados, testes e publicação.
 ## Navegação
 
 <a href="#sobre-mim">
-  <img src="https://img.shields.io/badge/Sobre_mim-1F2937?style=flat-square" alt="Sobre mim" />
+  <img src="https://img.shields.io/badge/Sobre_mim-334155?style=flat-square" alt="Sobre mim" />
 </a>
 <a href="#atualmente">
-  <img src="https://img.shields.io/badge/Atualmente-374151?style=flat-square" alt="Atualmente" />
+  <img src="https://img.shields.io/badge/Atualmente-475569?style=flat-square" alt="Atualmente" />
 </a>
 <a href="#projetos-em-destaque">
-  <img src="https://img.shields.io/badge/Projetos_em_destaque-111827?style=flat-square" alt="Projetos em destaque" />
+  <img src="https://img.shields.io/badge/Projetos_em_destaque-1E293B?style=flat-square" alt="Projetos em destaque" />
 </a>
 <a href="#outros-projetos">
-  <img src="https://img.shields.io/badge/Outros_projetos-4B5563?style=flat-square" alt="Outros projetos" />
+  <img src="https://img.shields.io/badge/Outros_projetos-64748B?style=flat-square" alt="Outros projetos" />
 </a>
 <a href="#tecnologias">
   <img src="https://img.shields.io/badge/Tecnologias-0F766E?style=flat-square" alt="Tecnologias" />
@@ -43,22 +43,10 @@ da interface e regras de negócio ao banco de dados, testes e publicação.
   <img src="https://img.shields.io/badge/Atividade_no_GitHub-1D4ED8?style=flat-square" alt="Atividade no GitHub" />
 </a>
 <a href="#vamos-construir-algo">
-  <img src="https://img.shields.io/badge/Contato-DC2626?style=flat-square" alt="Contato" />
+  <img src="https://img.shields.io/badge/Contato-9F1239?style=flat-square" alt="Contato" />
 </a>
 
 </div>
-
----
-
-## Índice
-
-- [Sobre mim](#sobre-mim)
-- [Atualmente](#atualmente)
-- [Projetos em destaque](#projetos-em-destaque)
-- [Outros projetos](#outros-projetos)
-- [Tecnologias](#tecnologias)
-- [Atividade no GitHub](#atividade-no-github)
-- [Vamos construir algo?](#vamos-construir-algo)
 
 ---
 
