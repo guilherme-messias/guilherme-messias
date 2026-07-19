@@ -20,6 +20,46 @@ da interface e regras de negócio ao banco de dados, testes e publicação.
 
 </div>
 
+<div align="center">
+
+## Navegação
+
+<a href="#sobre-mim">
+  <img src="https://img.shields.io/badge/Sobre_mim-1F2937?style=flat-square" alt="Sobre mim" />
+</a>
+<a href="#atualmente">
+  <img src="https://img.shields.io/badge/Atualmente-374151?style=flat-square" alt="Atualmente" />
+</a>
+<a href="#projetos-em-destaque">
+  <img src="https://img.shields.io/badge/Projetos_em_destaque-111827?style=flat-square" alt="Projetos em destaque" />
+</a>
+<a href="#outros-projetos">
+  <img src="https://img.shields.io/badge/Outros_projetos-4B5563?style=flat-square" alt="Outros projetos" />
+</a>
+<a href="#tecnologias">
+  <img src="https://img.shields.io/badge/Tecnologias-0F766E?style=flat-square" alt="Tecnologias" />
+</a>
+<a href="#atividade-no-github">
+  <img src="https://img.shields.io/badge/Atividade_no_GitHub-1D4ED8?style=flat-square" alt="Atividade no GitHub" />
+</a>
+<a href="#vamos-construir-algo">
+  <img src="https://img.shields.io/badge/Contato-DC2626?style=flat-square" alt="Contato" />
+</a>
+
+</div>
+
+---
+
+## Índice
+
+- [Sobre mim](#sobre-mim)
+- [Atualmente](#atualmente)
+- [Projetos em destaque](#projetos-em-destaque)
+- [Outros projetos](#outros-projetos)
+- [Tecnologias](#tecnologias)
+- [Atividade no GitHub](#atividade-no-github)
+- [Vamos construir algo?](#vamos-construir-algo)
+
 ---
 
 ## Sobre mim
@@ -45,54 +85,6 @@ Mais do que escolher uma tecnologia, procuro entender o problema, definir regras
 ---
 
 # Projetos em destaque
-
-## 🧠 DevSnap
-
-<div align="center">
-  <img
-    src="./assets/devsnap.gif"
-    alt="Demonstração do DevSnap"
-    width="800"
-  />
-</div>
-
-### Transforme erros e soluções em conhecimento reutilizável.
-
-Aplicação de revisão espaçada voltada para desenvolvedores. Permite registrar bugs, tentativas, soluções e aprendizados em episódios organizados por tecnologia.
-
-O projeto possui modo de revisão focada, captura rápida de anotações, histórico de aprendizado e exportação dos registros em Markdown.
-
-**Destaques técnicos**
-
-- Arquitetura baseada em componentes standalone
-- Estado reativo com Signals
-- Formulários reativos
-- Serviços desacoplados
-- Lazy loading
-- Persistência local
-- Estrutura preparada para integração com API REST
-
-**Tecnologias**
-
-`Angular` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
-
-<p>
-  <a href="LINK_DO_DEVSNAP">
-    <img
-      src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
-      alt="Acessar DevSnap"
-    />
-  </a>
-
-  <a href="LINK_DO_REPOSITORIO_DEVSNAP">
-    <img
-      src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
-      alt="Repositório DevSnap"
-    />
-  </a>
-</p>
-
----
 
 ## 🎵 Lacrei.io
 
@@ -136,6 +128,54 @@ A aplicação integra serviços externos para pesquisa e reprodução de música
     <img
       src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
       alt="Repositório Lacrei.io"
+    />
+  </a>
+</p>
+
+---
+
+## 🧠 DevSnap
+
+<div align="center">
+  <img
+    src="./assets/devsnap.gif"
+    alt="Demonstração do DevSnap"
+    width="800"
+  />
+</div>
+
+### Transforme erros e soluções em conhecimento reutilizável.
+
+Aplicação de revisão espaçada voltada para desenvolvedores. Permite registrar bugs, tentativas, soluções e aprendizados em episódios organizados por tecnologia.
+
+O projeto possui modo de revisão focada, captura rápida de anotações, histórico de aprendizado e exportação dos registros em Markdown.
+
+**Destaques técnicos**
+
+- Arquitetura baseada em componentes standalone
+- Estado reativo com Signals
+- Formulários reativos
+- Serviços desacoplados
+- Lazy loading
+- Persistência local
+- Estrutura preparada para integração com API REST
+
+**Tecnologias**
+
+`Angular` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
+
+<p>
+  <a href="LINK_DO_DEVSNAP">
+    <img
+      src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
+      alt="Acessar DevSnap"
+    />
+  </a>
+
+  <a href="LINK_DO_REPOSITORIO_DEVSNAP">
+    <img
+      src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Repositório DevSnap"
     />
   </a>
 </p>
