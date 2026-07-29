@@ -279,12 +279,12 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
 
 <table align="center">
   <tr>
-    <td>
+    <!-- <td>
       <img
         src="https://github-readme-stats-nu-ecru.vercel.app/api?username=guilherme-messias&show_icons=true&hide_border=true&rank_icon=github&hide_rank=true"
         alt="Estatísticas do GitHub de Guilherme Messias"
       />
-    </td>
+    </td> -->
     <td>
       <img
         src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=guilherme-messias&layout=compact&hide_border=true&langs_count=6"
