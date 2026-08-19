@@ -274,7 +274,7 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
   />
 </p>
 
-<!--
+
 ---
  ## Atividade no GitHub
 
@@ -295,7 +295,7 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
   </tr>
 </table>
 
-> As linguagens exibidas representam os repositórios públicos e não definem, isoladamente, meu nível de experiência ou área de atuação. -->
+> As linguagens exibidas representam os repositórios públicos e não definem, isoladamente, meu nível de experiência ou área de atuação. 
 
 ---
 
