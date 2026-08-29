@@ -52,21 +52,22 @@ da interface e regras de negócio ao banco de dados, testes e publicação.
 
 Gosto de transformar problemas e ideias em aplicações que possam ser realmente utilizadas.
 
-Desenvolvo produtos web completos, participando de diferentes etapas do processo: definição da solução, construção da interface, implementação de APIs, modelagem do banco de dados, autenticação, testes e deploy.
+Atuo em diferentes etapas do desenvolvimento de software: entendimento do problema, definição de regras de negócio, construção de interfaces, desenvolvimento de APIs, modelagem e persistência de dados, autenticação, integrações externas, testes e deploy.
 
-Minha principal base é o ecossistema **TypeScript**, com experiência em **Angular, React, Next.js e Node.js**, além de PostgreSQL, Prisma e Docker.
+Nos meus projetos, procuro construir fluxos completos. Isso inclui decisões como estruturar entidades e relacionamentos, validar dados, tratar estados da aplicação, integrar serviços externos, automatizar processos e garantir o comportamento esperado por meio de testes.
 
-Mais do que escolher uma tecnologia, procuro entender o problema, definir regras claras e construir uma solução organizada, sustentável e simples de evoluir.
+Atualmente também venho aprofundando minha experiência profissional em sistemas corporativos, participando da análise de soluções técnicas, manutenção e evolução de aplicações e discussão de decisões de arquitetura.
+
+Minha principal motivação é entender como uma solução funciona de ponta a ponta e como cada decisão técnica impacta sua manutenção e evolução.
 
 ---
 
 ## Atualmente
 
-- Desenvolvendo o DevSnap, uma plataforma de revisão espaçada para desenvolvedores
-- Estudando arquitetura de aplicações em .NET e Angular
-- Construindo projetos autorais voltados a problemas reais
-- Evoluindo práticas de testes, organização de código e integração com APIs
-- Buscando minha primeira oportunidade como desenvolvedor estagiário ou júnior
+- Atuando profissionalmente no desenvolvimento e evolução de sistemas corporativos
+- Construindo APIs, regras de negócio, persistência de dados e testes no DevSnap
+- Trabalhando com modelagem de entidades, relacionamentos e validação de dados
+- Aprofundando decisões de arquitetura, integração entre sistemas e qualidade de software
 
 ---
 
@@ -137,17 +138,17 @@ O projeto possui modo de revisão focada, captura rápida de anotações, histó
 
 **Destaques técnicos**
 
-- Arquitetura baseada em componentes standalone
-- Estado reativo com Signals
-- Formulários reativos
-- Serviços desacoplados
-- Lazy loading
-- Persistência local
-- Estrutura preparada para integração com API REST
+- Frontend Angular com componentes standalone e Signals
+- API REST desenvolvida com NestJS
+- Persistência com PostgreSQL e Prisma
+- Validação de entrada com Zod
+- Relacionamentos entre episódios, anotações e revisões
+- Testes de endpoints com Vitest/Supertest
+- Arquitetura separando responsabilidades de domínio, aplicação e infraestrutura
 
 **Tecnologias**
 
-`Angular` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
+`Angular`  `Nest.js` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
 
 <p>
   <!-- <a href="LINK_DO_DEVSNAP">
@@ -251,7 +252,7 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=nodejs,express,php"
+    src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php"
     alt="Tecnologias de backend"
   />
 </p>
@@ -303,7 +304,7 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
 
 ## Vamos construir algo?
 
-Estou aberto a oportunidades como **Desenvolvedor Full Stack, Front-end ou Back-end**, em nível de estágio ou júnior.
+Estou aberto a oportunidades e conexões em **desenvolvemento de software**.
 
 <a href="mailto:guilherme.messias.br@gmail.com">
   <img
