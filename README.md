@@ -56,18 +56,14 @@ Atuo em diferentes etapas do desenvolvimento de software: entendimento do proble
 
 Nos meus projetos, procuro construir fluxos completos. Isso inclui decisões como estruturar entidades e relacionamentos, validar dados, tratar estados da aplicação, integrar serviços externos, automatizar processos e garantir o comportamento esperado por meio de testes.
 
-Atualmente também venho aprofundando minha experiência profissional em sistemas corporativos, participando da análise de soluções técnicas, manutenção e evolução de aplicações e discussão de decisões de arquitetura.
-
-Minha principal motivação é entender como uma solução funciona de ponta a ponta e como cada decisão técnica impacta sua manutenção e evolução.
+Atualmente atuo como estagiário no desenvolvimento e evolução de sistemas corporativos e plataformas de software, participando da construção de funcionalidades que envolvem interface, backend, dados, integrações e qualidade.
 
 ---
 
 ## Atualmente
 
 - Atuando profissionalmente no desenvolvimento e evolução de sistemas corporativos
-- Construindo APIs, regras de negócio, persistência de dados e testes no DevSnap
-- Trabalhando com modelagem de entidades, relacionamentos e validação de dados
-- Aprofundando decisões de arquitetura, integração entre sistemas e qualidade de software
+- Desenvolvendo e estruturando APIs modulares em NestJS e explorando o ecossistema Java (Spring Boot) para arquiteturas de backend
 
 ---
 
@@ -141,10 +137,10 @@ O projeto possui modo de revisão focada, captura rápida de anotações, histó
 - Frontend Angular com componentes standalone e Signals
 - API REST desenvolvida com NestJS
 - Persistência com PostgreSQL e Prisma
-- Validação de entrada com Zod
+- Validação rigorosa com Zod e tratamento global de exceções
 - Relacionamentos entre episódios, anotações e revisões
-- Testes de endpoints com Vitest/Supertest
-- Arquitetura separando responsabilidades de domínio, aplicação e infraestrutura
+- Testes automatizados de endpoints (Vitest / Supertest)
+- Arquitetura modular separando domínio, aplicação e infraestrutura
 
 **Tecnologias**
 
@@ -252,7 +248,7 @@ Ferramenta web para padronização e transformação de textos, com recursos de 
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=nestjs,nodejs,express,php"
+    src="https://skillicons.dev/icons?i=nestjs,nodejs,express,java,spring"
     alt="Tecnologias de backend"
   />
 </p>
