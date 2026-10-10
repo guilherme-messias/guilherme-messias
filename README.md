@@ -151,12 +151,12 @@ O projeto possui modo de revisão focada, captura rápida de anotações, histó
 `Angular`  `Nest.js` `TypeScript` `RxJS` `Signals` `Angular Material` `Tailwind CSS`
 
 <p>
-  <!-- <a href="LINK_DO_DEVSNAP">
+ <a href="https://devsnap-5690.onrender.com/">
     <img
       src="https://img.shields.io/badge/Acessar_aplicação-000000?style=flat-square&logo=vercel&logoColor=white"
       alt="Acessar DevSnap"
     />
-  </a> -->
+  </a>
 
   <a href="https://github.com/guilherme-messias/devsnap">
     <img
