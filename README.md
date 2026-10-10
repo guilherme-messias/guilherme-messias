@@ -63,7 +63,8 @@ Atualmente atuo como estagiário no desenvolvimento e evolução de sistemas cor
 ## Atualmente
 
 - Atuando profissionalmente no desenvolvimento e evolução de sistemas corporativos
-- Desenvolvendo e estruturando APIs modulares em NestJS e explorando o ecossistema Java (Spring Boot) para arquiteturas de backend
+- Desenvolvendo e estruturando APIs modulares em NestJS no projeto DevSnap
+- Explorando o ecossistema Java (Spring Boot) para arquiteturas de backend
 
 ---
 
